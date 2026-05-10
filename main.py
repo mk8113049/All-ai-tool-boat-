@@ -20,7 +20,7 @@ from cryptography.fernet import Fernet
 import time
 
 # ====================== API KEYS (मुनीश भाई की) ======================
-TOKEN = "8779921789:AAEmLxaplUyBzKwhvX10XGv2IezJnnQrXmM"
+TOKEN = "8642551061:AAHWhxyNlEltUNsP8UKO__alGmNi2BcKcbQ"
 GROQ_KEY = "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"
 TAVILY_KEY = "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"
 IMGBB_KEY = "0fc3ee7a91862f1cf805ff7b7170ae93"
