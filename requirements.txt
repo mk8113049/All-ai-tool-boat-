@@ -1,0 +1,11 @@
+pyTelegramBotAPI
+requests
+beautifulsoup4
+groq
+tavily-python
+qrcode
+pillow
+yfinance
+speedtest-cli
+pypdf2
+cryptography
